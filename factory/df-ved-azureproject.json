@@ -1,0 +1,9 @@
+{
+	"name": "df-ved-azureproject",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89db827c-e439-49d4-8d7d-99bb96226f75",
+		"tenantId": "9ecc65c3-bf0b-4b00-a667-ea973afb1813"
+	}
+}
